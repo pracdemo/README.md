@@ -12,3 +12,4 @@
 # creating a tech status table
 |__Languge__|__client__|__features__|
 |-----------|----------|------------|
+|-----------__community__-----------|
