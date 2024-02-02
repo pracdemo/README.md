@@ -1,4 +1,6 @@
 <img src="DarkMode.png">
+![CPAN License](https://img.shields.io/cpan/l/python)
+
 # Table contnets 
 * [CODE SNIPPETS](#code-snippets)
 * [General info](#general-info)
