@@ -1,5 +1,8 @@
 <img src="DarkMode.png">
-![Static Badge](https://img.shields.io/badge/last-updated?style=flat&logo=last%20updated&logoColor=violet&label=today&labelColor=green&color=grey&cacheSeconds=3600)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=gem&logoColor=grey&label=hello&labelColor=violet&color=grey&cacheSeconds=3600)
+
+
+![Static Badge](https://img.shields.io/badge/badgeContent?style=flat&logo=demod&logoColor=violet&label=today&labelColor=green&color=grey&cacheSeconds=3600)
 
 # Table contnets 
 * [CODE SNIPPETS](#code-snippets)
