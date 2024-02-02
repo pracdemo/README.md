@@ -1,4 +1,5 @@
 <img src="DarkMode.png">
+![Static Badge](https://img.shields.io/badge/last-updated?style=flat&logo=last%20updated&logoColor=violet&label=today&labelColor=green&color=grey&cacheSeconds=3600)
 
 # Table contnets 
 * [CODE SNIPPETS](#code-snippets)
@@ -8,8 +9,6 @@
 -------
 
 ## CODE SNIPPETS
-
-![Static Badge](https://img.shields.io/badge/last-updated?style=flat&logo=last%20updated&logoColor=violet&label=today&labelColor=green&color=grey&cacheSeconds=3600)
 <img src="carbon.png">
 ----
 ## instructions
