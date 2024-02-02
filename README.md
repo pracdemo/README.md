@@ -1,7 +1,7 @@
 <img src="DarkMode.png">
 
 # Table contnets 
-* [CODE SNIPPETS](#code snippets)
+* [CODE SNIPPETS](#code-snippets)
 -------
 
 ## CODE SNIPPETS
