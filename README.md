@@ -12,5 +12,5 @@
 # creating a tech status table
 |__Languge__|__client__|__features__|
 |-----------|----------|------------|
-## __community__  
+|>>>>>>>>>> __community__>>>>>>>>>>>|  
 |python     |sgdh      |uewrgewa    |
