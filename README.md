@@ -10,5 +10,5 @@
 + create anew one
 + commit changes
 # creating a tech status table
-|Languge|client|features|
-|-------|------|--------|
+|__Languge__|__client__|__features__|
+|-----------|----------|------------|
