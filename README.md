@@ -1,5 +1,6 @@
 <img src="DarkMode.png">
-![CPAN License](https://img.shields.io/cpan/l/python)
+![Static Badge](https://img.shields.io/badge/mark?style=flat&logoColor=violet&label=healthiness&labelColor=abcdef&color=fecba&cacheSeconds=3600)
+
 
 # Table contnets 
 * [CODE SNIPPETS](#code-snippets)
