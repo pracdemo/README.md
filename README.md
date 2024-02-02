@@ -10,6 +10,6 @@
 + create anew one
 + commit changes
 # creating a tech status table
-|__Languge__|__client__|__features__|
-|:----------|:--------:|-----------:| 
-|python     |sgdh      |uewrgewa    |
+|Languge| client | features |
+|:------|:------:|---------:| 
+|pytho  |sgdh    |uewrgewa  |
