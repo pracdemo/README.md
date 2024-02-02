@@ -11,3 +11,4 @@
 + commit changes
 # creating a tech status table
 |Languge|client|features|
+|-------|------|--------|
