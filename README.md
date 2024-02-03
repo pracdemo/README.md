@@ -18,13 +18,34 @@ To deploy this project run
   npm run deploy
 ```
 
-## Installation and Setup
+## Installation 
 Install my-project with npm
 
 ```bash
   npm install my-project
   cd my-project
 ```
+###  :outbox_tray: Set up
+- These are the steps required to install the project.
+- Mention, if needed, requirements based on the different OS type: `<Windows/Linux/Mac>`.
+
+_E.g_
+
+1. Get a API Key at [website](example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/YOUR_USERNAME/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install npm@latest -g
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'YOUR API KEY HERE';
+   ```
+
+## User demo
     
 ## Features
 
