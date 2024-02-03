@@ -1,6 +1,6 @@
 <img src="DarkMode.png">
 
-<img src="https://lucid.app/lucidchart/7c016c02-5a35-4223-b5fb-353c7630f743/edit?invitationId=inv_dc011754-ced5-44a6-8ed8-9bba8e6d7fa3">
+<img src="Blank diagram.png">
 
 ![Static Badge](https://img.shields.io/badge/build-20-violet?style=flat&logo=dark_mode&logoColor=black&label=issues&labelColor=grey&color=green&cacheSeconds=3600)
 
