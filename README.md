@@ -11,25 +11,6 @@
 * [Setup](#setup)
 ---
 
-## CODE SNIPPETS
-<img src="carbon.png">
-
-----
-
-## Instructions
-+ go to files
-+ click on new
-   + create anew one
-   + commit changes
------
-
-## creating a tech status table
-|Languge| client | features |
-|:------|:------:|---------:| 
-|pytho  |sgdh    |uewrgewa  |
-----
-
-## setup
 ## Deployment
 
 To deploy this project run
@@ -55,6 +36,25 @@ Install my-project with npm
 - Fullscreen mode
 - Cross platform
 
+## CODE SNIPPETS
+<img src="carbon.png">
+
+----
+
+## Instructions
++ go to files
++ click on new
+   + create anew one
+   + commit changes
+-----
+
+## creating a tech status table
+|Languge| client | features |
+|:------|:------:|---------:| 
+|pytho  |sgdh    |uewrgewa  |
+----
+
+## setup
 
 ## API Reference
 
