@@ -9,7 +9,7 @@
 * [Instructions](#instructions)
 * [creating a tech status table](#creating-a-tech-status-table)
 * [Setup](#setup)
--------
+---
 
 ## CODE SNIPPETS
 <img src="carbon.png">
