@@ -1,6 +1,5 @@
 <img src="DarkMode.png">
-![Static Badge](https://img.shields.io/badge/mark?style=flat&logoColor=violet&label=healthiness&labelColor=abcdef&color=fecba&cacheSeconds=3600)
-
+![Static Badge](https://img.shields.io/badge/build-20-violet?style=flat&logo=dark_mode&logoColor=black&label=issues&labelColor=grey&color=green&cacheSeconds=3600)
 
 # Table contnets 
 * [CODE SNIPPETS](#code-snippets)
