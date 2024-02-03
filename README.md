@@ -1,6 +1,8 @@
-<img src="DarkMode.png">
+<img src="DarkMode.png"
 
 <img src="Blank diagram.png">
+
+-----
 
 ![Static Badge](https://img.shields.io/badge/build-20-violet?style=flat&logo=dark_mode&logoColor=black&label=issues&labelColor=grey&color=green&cacheSeconds=3600)
 
