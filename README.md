@@ -9,7 +9,6 @@
 * [CODE SNIPPETS](#code-snippets)
 * [Instructions](#instructions)
 * [creating a tech status table](#creating-a-tech-status-table)
----
 
 ## Deployment
 
@@ -37,14 +36,11 @@ Install my-project with npm
 ## CODE SNIPPETS
 <img src="carbon.png">
 
-----
-
 ## Instructions
 + go to files
 + click on new
    + create anew one
    + commit changes
------
 
 ## creating a tech status table
 |Languge| client | features |
