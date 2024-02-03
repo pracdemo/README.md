@@ -4,11 +4,11 @@
 
 ![Static Badge](https://img.shields.io/badge/build-20-violet?style=flat&logo=dark_mode&logoColor=black&label=issues&labelColor=grey&color=green&cacheSeconds=3600)
 
+
 # Table contnets 
 * [CODE SNIPPETS](#code-snippets)
 * [Instructions](#instructions)
 * [creating a tech status table](#creating-a-tech-status-table)
-* [Setup](#setup)
 ---
 
 ## Deployment
@@ -19,9 +19,7 @@ To deploy this project run
   npm run deploy
 ```
 
-
-## Installation
-
+## Installation and Setup
 Install my-project with npm
 
 ```bash
@@ -53,8 +51,6 @@ Install my-project with npm
 |:------|:------:|---------:| 
 |pytho  |sgdh    |uewrgewa  |
 ----
-
-## setup
 
 ## API Reference
 
@@ -88,7 +84,7 @@ Takes two numbers and returns the sum.
 Any additional information goes here
 
 
-## Contributing
+## Contribution
 
 Contributions are always welcome!
 
@@ -100,5 +96,7 @@ Please adhere to this project's `code of conduct`.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
