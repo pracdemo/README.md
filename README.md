@@ -4,27 +4,27 @@
 
 # Table contnets 
 * [CODE SNIPPETS](#code-snippets)
-* [General info](#general-info)
-* [Technologies](#technologies)
+* [Instructions](#instructions)
+* [creating a tech status table](#creating-a-tech-status-table)
 * [Setup](#setup)
 -------
 
 ## CODE SNIPPETS
 <img src="carbon.png">
+
 ----
-## instructions
+
+## Instructions
 + go to files
 + click on new
-+ create anew one
-+ commit changes
+   + create anew one
+   + commit changes
 -----
+
 ## creating a tech status table
 |Languge| client | features |
 |:------|:------:|---------:| 
 |pytho  |sgdh    |uewrgewa  |
 ----
-## General info
-----
-## Technologies
-----
+
 ## setup
