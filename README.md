@@ -1,6 +1,6 @@
 <img src="DarkMode.png"
 
-<img src="Blank diagram.png">
+<img src=".png">
 
 -----
 
