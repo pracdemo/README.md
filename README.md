@@ -47,14 +47,10 @@ _E.g_
 ## User demo
     
 ## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+* 
 
 ## CODE SNIPPETS
-<img src="carbon.png">
+<img src="snip.png">
 
 ## Instructions
 + go to files
@@ -70,7 +66,9 @@ _E.g_
 |ollama |    Running LLM locally|
 |tinyllama|  Fork of llama 2|
 |![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)|   authentication and database|
-|![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)|  js framework|
+|![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)| backend server|
+|express js| backend server|
+|![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)|  framework for dynamic pages|
 |![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)|   ui library |
 |![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)|  type validation for js|
 |Zod |  typescript schema runtime validation|
