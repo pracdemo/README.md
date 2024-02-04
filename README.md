@@ -14,14 +14,15 @@
 To deploy this project run
 
 ```bash
-  npm run deploy
+  npm run dev
 ```
 
 ## Installation 
 Install my-project with npm
 
 ```bash
-  npm install my-project
+  git clone link
+  npm install
   cd my-project
 ```
 ###  :outbox_tray: Set up
@@ -83,7 +84,7 @@ _E.g_
 #### Get all items
 
 ```http
-  GET /api/items
+  GET /
 ```
 
 | Parameter | Type     | Description                |
