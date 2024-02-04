@@ -1,4 +1,4 @@
-.<img src="Blank diagram.png">
+<img src="Blank diagram.png">
 
 ----
 
