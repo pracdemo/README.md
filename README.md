@@ -17,47 +17,25 @@ To deploy this project run
   npm run dev
 ```
 
-## Installation 
-Install my-project with npm
-
-```bash
-  git clone link
-  npm install
-  cd my-project
-```
 ###  :outbox_tray: Set up
 - These are the steps required to install the project.
-- Mention, if needed, requirements based on the different OS type: `<Windows/Linux/Mac>`.
-
-_E.g_
-
-1. Get a API Key at [website](example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/YOUR_USERNAME/Project-Name.git
+   git clone [https://github.com/YOUR_USERNAME/Project-Name.git](https://github.com/dm-coding2004/hack-a-league-2.0)
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install npm@latest -g
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'YOUR API KEY HERE';
    ```
 
 ## User demo
     
 ## Features
-* 
+* Get a script tag of custom AI bot created by the clients for their online products.
+* And get a custom page for offline products. 
 
 ## CODE SNIPPETS
 <img src="snip.png">
-
-## Instructions
-+ go to files
-+ click on new
-   + create anew one
-   + commit changes
 
 ## creating a tech status table
 |Language|        Use Case                         |
@@ -84,31 +62,25 @@ _E.g_
 #### Get all items
 
 ```http
-  GET /
+  GET /chatbot/:ownername/:botname/chat?input="Your Input"
 ```
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
+Outpt: The Generated Text bye the LLM Model with custom dataset provider by that owner.
 
-#### Get item
+#### Post item
 
 ```http
-  GET /api/items/${id}
+  POST /createbot {body: {
+username,
+name,
+dp,
+companyname,
+category,
+questions: [{question,answer}]
+}}
 ```
 
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
-
-## Appendix
-
-Any additional information goes here
+Create a custom bot and gives a script tag and a custom page link.
 
 
 ## Contribution
