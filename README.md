@@ -5,9 +5,16 @@
 ----
 
 # Table contnets 
+* [Deployment](#deployment)
+* [Set up](#set-up)
+* [User demo](#user-demo)
+* [Features](#features)
 * [CODE SNIPPETS](#code-snippets)
-* [Instructions](#instructions)
-* [creating a tech status table](#creating-a-tech-status-table)
+* [Tech status](#tech-status)
+* [API Reference](#api-reference)
+* [Contribution](#contribution)
+* [License](#license)
+
 
 ## Deployment
 
@@ -17,7 +24,7 @@ To deploy this project run
   npm run dev
 ```
 
-###  :outbox_tray: Set up
+## Set up
 - These are the steps required to install the project.
 1. Clone the repo
    ```sh
@@ -37,7 +44,7 @@ To deploy this project run
 ## CODE SNIPPETS
 <img src="snip.png">
 
-## creating a tech status table
+## Tech status
 |Language|        Use Case                         |
 |:-------|:-------------------------------:|
 |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|  Data feeding to LLM model|
@@ -61,7 +68,7 @@ To deploy this project run
 
 #### Get all items
 
-```http
+```bash
   GET /chatbot/:ownername/:botname/chat?input="Your Input"
 ```
 
@@ -69,7 +76,7 @@ Outpt: The Generated Text bye the LLM Model with custom dataset provider by that
 
 #### Post item
 
-```http
+```bash
   POST /createbot {body: {
 username,
 name,
