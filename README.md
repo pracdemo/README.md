@@ -1,4 +1,4 @@
-<img src="Blank diagram.png">
+.<img src="Blank diagram.png">
 
 ![Static Badge](https://img.shields.io/badge/build-20-violet?style=flat&logo=dark_mode&logoColor=black&label=issues&labelColor=grey&color=green&cacheSeconds=3600)
 
@@ -39,7 +39,11 @@ To deploy this project run
     
 ## Features
 * Get a script tag of custom AI bot created by the clients for their online products.
-* And get a custom page for offline products. 
+* And get a custom page for offline products.
+* Creating custom chatbot as per user requirements.
+* CAAS - chatbot as a service.
+* Flexible and user friendly interface.
+  
 
 ## CODE SNIPPETS
 <img src="snip.png">
