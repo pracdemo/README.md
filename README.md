@@ -1,9 +1,8 @@
 <img src="Blank diagram.png">
 
------
-
 ![Static Badge](https://img.shields.io/badge/build-20-violet?style=flat&logo=dark_mode&logoColor=black&label=issues&labelColor=grey&color=green&cacheSeconds=3600)
 
+----
 
 # Table contnets 
 * [CODE SNIPPETS](#code-snippets)
@@ -64,9 +63,21 @@ _E.g_
    + commit changes
 
 ## creating a tech status table
-|Languge| client | features |
-|:------|:------:|---------:| 
-|pytho  |sgdh    |uewrgewa  |
+|Language|        Use Case                         |
+|:-------|:-------------------------------:|
+|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|  Data feeding to LLM model|
+|lang chain | LLM framework|
+|ollama |    Running LLM locally|
+|tinyllama|  Fork of llama 2|
+|![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)|   authentication and database|
+|![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)|  js framework|
+|![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)|   ui library |
+|![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)|  type validation for js|
+|Zod |  typescript schema runtime validation|
+|![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)|  shorthand css|
+|swiper js|  block animation|
+|react scroll-animation|  scroll animation|
+|locomotive-scroll|   smooth scroll|
 ----
 
 ## API Reference
